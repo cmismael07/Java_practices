@@ -14,10 +14,10 @@ public class OperadoresComparacion {
         //Mayor o igual que >=
         resultado = a >= b;
         System.out.println("resultado a>=b = " + resultado);
-        //Menor que >
+        //Menor que <
         resultado = a < b;
         System.out.println("resultado a<b = " + resultado);
-        //Menor o igual que >
+        //Menor o igual que <=
         resultado = a <= b;
         System.out.println("resultado a<=b = " + resultado);
     }
