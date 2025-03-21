@@ -37,7 +37,7 @@ public class TicketVenta {
 
         //Imprimir el ticket de venta
         System.out.printf("""
-                \nTicket de Venta
+                %nTicket de Venta
                 -----------------
                 Subtotal: $%.2f
                 Descuento; $%.2f (%d%%)
